@@ -13,7 +13,8 @@ Boilerplate for building applications with GraphCMS, Remix and Chakra UI
   npm install / yarn
   cd remix-graphcms-chakra-boilerplate
 ```
-    
+
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -21,6 +22,13 @@ To run this project, you will need to add the following environment variables to
 ```
 REMIX_GRAPHCMS_CONTENT_API_KEY
 ```
+
+
+## Features
+
+- Remix 
+- Chakra UI
+- GraphCMS
 
 
 
