@@ -54,7 +54,7 @@ const Document = withEmotionCache(
     useEffect(() => {
       // re-link sheet container
       emotionCache.sheet.container = document.head;
-      // re-inject tags
+      // re-inject tag
       const tags = emotionCache.sheet.tags;
       emotionCache.sheet.flush();
       tags.forEach((tag) => {
